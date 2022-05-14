@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/some_github_projects/MySTL/build",
+  "command": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\TestForSTL.dir\\TestProgram.cpp.obj -c E:\\some_github_projects\\MySTL\\TestProgram.cpp",
+  "file": "E:/some_github_projects/MySTL/TestProgram.cpp"
+}
+]
